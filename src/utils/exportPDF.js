@@ -49,11 +49,11 @@ export const exportPDF = (products) => {
     theme: "grid",
 
     headStyles: {
-      fillColor:,
+      fillColor:[13, 110, 253]
     },
 
     footStyles: {
-      fillColor:,
+      fillColor:[40, 167, 69]
     },
   });
 
